@@ -18,7 +18,7 @@ h1, h3{
 
 
 .item{
-    height: 90vh;
+    height: 80vh;
     font-size: 25px;
     background-size: cover;
     background-position: center;
@@ -112,3 +112,5 @@ background-image: url(image/2-210614-222404.webp);
 .six{
     background-image: url(image/6-210614-222404.webp);
 }
+
+
