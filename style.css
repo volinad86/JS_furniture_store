@@ -1,0 +1,23 @@
+body{
+    background-color: #faf1e6;
+}
+
+
+.one{
+background-image: url(image/1-210614-222404.webp);
+}
+.two{
+background-image: url(image/2-210614-222404.webp);
+}
+.three{
+    background-image: url(image/3-210614-222404.webp);
+}
+.four{
+    background-image: url(image/4-210614-222404.webp);
+}
+.five{
+    background-image: url(image/5-210614-222404.webp);
+}
+.six{
+    background-image: url(image/6-210614-222404.webp);
+}
