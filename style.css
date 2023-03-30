@@ -2,6 +2,15 @@ body{
     background-color: #faf1e6;
 }
 
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+h1, h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
 
 .one{
 background-image: url(image/1-210614-222404.webp);
