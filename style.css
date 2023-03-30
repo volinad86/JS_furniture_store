@@ -11,6 +11,49 @@ h1, h3{
     font-family: 'Dancing Script', cursive;
     font-size: 80px;
 }
+.container{
+    display: flex;
+}
+
+
+
+.item{
+    height: 90vh;
+    font-size: 25px;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Dancing Script', cursive;
+    flex: 1;
+    margin: 7px;
+    position: relative;
+}
+
+h4{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    color: black;
+    background-color: azure;
+    /* font-size: 0; */
+    /* 1 opacity: 0; second way */ 
+
+}
+.par{
+    position: absolute;
+    top: 100px;
+    left: 40px;
+    background-color: azure;
+    color: black;
+   
+}
+
+.price{
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    background-color: azure;
+    color: black;
+}
 
 .one{
 background-image: url(image/1-210614-222404.webp);
