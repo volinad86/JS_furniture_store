@@ -75,7 +75,23 @@ h4{
     transition: all 1s ease-in;
 }
 
-
+label{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    }
+    
+    .text-input{
+        background-color: #faf1e6 ;
+        border: none;
+        padding: 12px 20px;
+    }
+    
+    .btn{
+        font-size: 35px;
+        font-family: 'Dancing Script', cursive;
+        background-color: #00adb5;
+        flex: 1;
+    }
 
 
 .one{
