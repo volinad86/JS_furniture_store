@@ -34,7 +34,7 @@ h4{
     left: 40px;
     color: black;
     background-color: azure;
-    /* font-size: 0; */
+    font-size: 0;
     /* 1 opacity: 0; second way */ 
 
 }
@@ -44,7 +44,7 @@ h4{
     left: 40px;
     background-color: azure;
     color: black;
-
+    font-size: 0;
 }
 
 .price{
@@ -53,6 +53,7 @@ h4{
     left: 40px;
     background-color: azure;
     color: black;
+    font-size: 0;
 }
 
 .selected{
